@@ -32,6 +32,8 @@ public class Main {
 		ab.abstractCal(a, b);
 		multi.calcMultiple(a, b);
 		div.calcDivide(a, b);
+		
+		System.out.println("test");
 	}
 
 }
