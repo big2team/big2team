@@ -15,7 +15,7 @@ public class Sum {
 	//Method
 	
 	public void sumCalc(int a, int b) {
-		System.out.println(a + "+" + b + "=" + (a+b));
+		System.out.println("덧셈 : " + (a+b));
 	}
 	
 	
